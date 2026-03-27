@@ -61,16 +61,7 @@ Features
 - Build scalable backend systems for fintech and analytics platforms
 - Improve system design, performance, and clean architecture
 - Develop data-driven products with real-time features
-
----
-
-## GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Imtoord&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtoord&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
+  
 ---
 
 ## Contact
