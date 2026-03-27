@@ -67,8 +67,8 @@ Features
 ## GitHub Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Imtoord&show_icons=true&theme=default" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtoord&layout=compact&theme=default" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Imtoord&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtoord&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -76,15 +76,17 @@ Features
 ## Contact
 
 <p>
-  <a href="mailto:tarekazizmhmd@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-  <a href="https://linkedin.com/in/tarek-aziz-b00525240">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://github.com/Imtoord">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
+<a href="mailto:tarekazizmhmd@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://linkedin.com/in/tarek-aziz-b00525240">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/Imtoord">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
 </p>
 
 ---
