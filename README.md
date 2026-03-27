@@ -10,65 +10,94 @@ Interested in financial systems and trading analytics platforms.
 
 ## Tech Stack
 
-Backend
-- Node.js
-- TypeScript
-- Express.js
-- REST APIs
-- WebSockets
-
-Database
-- MongoDB
-- MySQL
-
-Other
-- Git
-- Docker basics
-- JWT authentication
-- Role-based access control
-- API integration
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,nestjs,mongodb,mysql,redis,git,docker,postman,linux,aws" />
+</p>
 
 ---
 
 ## Featured Work
 
-### Trading Analytics Platform
-Backend system for financial market analysis.
+### Trading Analytics Engine
+Backend system for financial market analysis and strategy testing.
 
 Features
-- backtesting engine
-- technical indicators
-- signal generation
-- performance metrics
-- real-time data via WebSocket
+- Backtesting engine
+- Technical indicators, SMA, EMA, RSI, MACD, Bollinger Bands, VWAP, MFI, Stochastic, Aroon
+- Signal generation
+- Performance metrics, Sharpe ratio, drawdown, win rate
+- Real-time market data using WebSocket
+- Strategy evaluation and result storage
 
 Stack
-Node.js, TypeScript, MongoDB
-
----
+- Node.js
+- TypeScript
+- MongoDB
+- WebSocket
 
 ### REST API Systems
-Scalable backend APIs with authentication and validation.
+Scalable backend APIs with authentication, validation, and clean project structure.
 
 Features
-- JWT auth
-- role permissions
-- structured architecture
-- error handling
-- pagination and filtering
+- JWT authentication
+- Role-based access control
+- Pagination and filtering
+- Centralized error handling
+- Modular architecture
+
+### Real-time Applications
+Applications using WebSocket and Socket.io for live communication.
+
+Features
+- Real-time updates
+- Room-based communication
+- Event-driven architecture
+- Live messaging and notifications
 
 ---
 
-### Real-time Systems
-Applications using WebSocket for live data.
+## Current Focus
 
-Features
-- real-time updates
-- event-driven architecture
-- socket communication
+- Build scalable backend systems for fintech and analytics platforms
+- Improve system design, performance, and clean architecture
+- Develop data-driven products with real-time features
 
 ---
 
-## Goal
+## GitHub Stats
 
-Build scalable backend systems for fintech and analytics platforms.
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Imtoord&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtoord&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## Contact
+
+<p>
+  <a href="mailto:tarekazizmhmd@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/tarek-aziz-b00525240">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://github.com/Imtoord">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
+
+---
+
+## Optional Repo Naming Suggestions
+
+- trading-analytics-engine
+- ebook-store-api
+- realtime-chat-app
+- ecommerce-rest-api
+- nestjs-app
+- graduation-project
+
