@@ -67,11 +67,8 @@ Features
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Imtoord&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtoord&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Imtoord&show_icons=true&theme=default" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtoord&layout=compact&theme=default" height="170"/>
 </p>
 
 ---
