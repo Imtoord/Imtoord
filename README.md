@@ -1,16 +1,74 @@
-## Hi there 👋
+# Tarek Aziz Mohamed
 
-<!--
-**Imtoord/Imtoord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building scalable APIs and real-time systems.
 
-Here are some ideas to get you started:
+Specialized in Node.js, TypeScript, Express, MongoDB, and WebSockets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in financial systems and trading analytics platforms.
+
+---
+
+## Tech Stack
+
+Backend
+- Node.js
+- TypeScript
+- Express.js
+- REST APIs
+- WebSockets
+
+Database
+- MongoDB
+- MySQL
+
+Other
+- Git
+- Docker basics
+- JWT authentication
+- Role-based access control
+- API integration
+
+---
+
+## Featured Work
+
+### Trading Analytics Platform
+Backend system for financial market analysis.
+
+Features
+- backtesting engine
+- technical indicators
+- signal generation
+- performance metrics
+- real-time data via WebSocket
+
+Stack
+Node.js, TypeScript, MongoDB
+
+---
+
+### REST API Systems
+Scalable backend APIs with authentication and validation.
+
+Features
+- JWT auth
+- role permissions
+- structured architecture
+- error handling
+- pagination and filtering
+
+---
+
+### Real-time Systems
+Applications using WebSocket for live data.
+
+Features
+- real-time updates
+- event-driven architecture
+- socket communication
+
+---
+
+## Goal
+
+Build scalable backend systems for fintech and analytics platforms.
